@@ -1,0 +1,20 @@
+# Experience template
+- layout: left
+  company: Mimos Berhad
+  # link: Link to company (optional)
+  job_title: Intern
+  dates: 24 Feb 2020 - 10 July 2020
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    In Mimos, I learn and manage druid database, Do data cleaning, Create prototype AutoML using react, Carry out research on new Hyperparameter tuning technique and framework
+
+- layout: left
+  company: Jabatan Pendidikan Negeri Pahang (JPNP)
+  # link: Link to company (optional)
+  job_title: Intern
+  dates: 4 Jan 2016 - 29 April 2020
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    As a intern at JPNP, i do the design poster and banner using Adobe Photoshop, Create video using sorry vegas and also create the department website using wordpress

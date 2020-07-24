@@ -1,0 +1,12 @@
+# Project template
+- layout: left
+  name: I-Sell
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the project
+  description: | # this will include new lines to allow paragraphs
+    I-Sell is a responsive web based application for student in UiTM Jasin. This application help the student to buy or sell the product in UiTM Jasin.
+
+    Developed by using: <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>MySQL</mark>  
+  image: images/homepage.jpg

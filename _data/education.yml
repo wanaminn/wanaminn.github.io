@@ -1,0 +1,20 @@
+# Education Template
+- layout: top-middle
+  name: Universiti Technology Mara (UiTM) Campus Jasin
+  dates: 2017 - 2020
+  qualification: Bachelor of Information Technology (Hons.) Information System Engineering
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Bachelor of Information Technology (Hons.) Information System Engineering
+  # Faculty Computer Science And Mathematic (FSKM)
+
+- layout: top-middle
+  name: Kolej Poly-Tech Mara Kuantan
+  dates: 2013 - 2016
+  qualification: Diploma In Information Technology
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Diploma In Information Technology
+  #   Department of Information Technology

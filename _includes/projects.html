@@ -1,0 +1,11 @@
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Projects" }}</h3>
+  {% for project in site.data.projects %}
+    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+  {% endfor %}
+  <!-- {%- for project in site.data.projects -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+      </div>
+  {%- endfor -%} -->
+</div>
